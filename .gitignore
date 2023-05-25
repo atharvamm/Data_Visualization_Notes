@@ -1,0 +1,5 @@
+#Directories
+.obsidian/*
+.DS_Store/*
+# Files
+notes.md
